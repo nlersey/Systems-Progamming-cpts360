@@ -1,0 +1,4 @@
+ndir: 9
+
+ test 
+cmd=/bin/cat

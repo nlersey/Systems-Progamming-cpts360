@@ -1,0 +1,13 @@
+ndir: 9
+
+ test 
+cmd=/bin/cat
+L6_CptS360_Spring2021.pdf : description of the lab/assignment 
+
+L6_Description_Details.pdf: detailed description of the lab (from textbook)
+
+lab6base.c: a potential base code to start (it is not gauranteed that this code will work or even compile; it is meant to give you some high level idea about how to start this assignment)
+
+sh_script: a simple shell script that you can use to test the second bonus feature ('handling shell scripts'). You are not required to use this file. Any shell script that you have written in the past should be just fine for testing your code.
+
+lab6.bin: potenital solution as a binary executable file. You can play with this file to better understand what your shell simulator is supposed to do.
