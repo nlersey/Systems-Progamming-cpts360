@@ -1,5 +1,5 @@
 # CPTS 360 
-Taken Spring 2021 at WSU 
+Taken Spring 2020 at WSU 
 
 Course Website: https://eecs.wsu.edu/~cs360/
 
